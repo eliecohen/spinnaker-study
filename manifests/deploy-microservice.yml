@@ -3,7 +3,7 @@ apiVersion: apps/v1
 metadata:
     labels:
         app: elie-solo-microservice
-        new: aaaac
+        new: aaaacj
         stack: frontend
         source: demo
     name: elie-solo-microservice
